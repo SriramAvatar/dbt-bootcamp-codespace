@@ -21,7 +21,7 @@
 	"postCreateCommand": "bash scripts/install-dependencies.sh",
 	"customizations": {
 		"vscode": {
-			"extensions": [dbt
+			"extensions": [	
 				"innoverio.vscode-dbt-power-user"
 			]
 		}
